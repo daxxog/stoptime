@@ -3,15 +3,15 @@
     "description" : "A basic stop watch timing object for JavaScript.",
     "homepage"    : "https://github.com/daxxog/stoptime",
     "main"        : "stoptime.js",
-    "version"     : "0.0.1",
+    "version"     : "0.0.2",
     "engines": { "node" : ">=0.8.15" },
     "maintainers": [{
         "name"  : "David Volm",
         "email" : "david@volminator.com",
         "web"   : "http://daxxog.com/"
     }],
-    "repositories": [{
+    "repository": {
         "type" : "git",
         "url"  : "https://github.com/daxxog/stoptime.git"
-    }]
+    }
 }
